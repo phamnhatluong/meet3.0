@@ -1,0 +1,9 @@
+# Python environments and generated files
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Per-user calibration and downloaded MediaPipe models
+calibration.json
+models/*.task
